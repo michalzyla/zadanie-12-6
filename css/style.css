@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+.country {
+	font-size: 25px;
+	color: #e74c3c;
+}
+
+img {
+    width: 20%;
+    height: 20%%;
+}
